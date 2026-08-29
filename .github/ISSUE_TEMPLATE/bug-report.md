@@ -1,1 +1,18 @@
-https://gist.githubusercontent.com/sid-kk-dev2/f5c0f8aec643b1deed87831d8f009b1a/raw/b60df524f67bf4af5e8e9638b5ec724a0b544d3c/bug_report.md
+---
+name: Bug Report
+about: Create a report to help us improve Block Buster
+title: "[BUG] "
+labels: bug
+---
+
+**Describe the bug**
+A clear and concise description of what the bug is.
+
+**To Reproduce**
+Steps to reproduce the behavior:
+1. Go to '...'
+2. Click on '....'
+3. See error
+
+**Expected behavior**
+A clear and concise description of what you expected to happen.
